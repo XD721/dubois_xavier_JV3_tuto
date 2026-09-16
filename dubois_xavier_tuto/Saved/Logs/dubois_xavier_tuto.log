@@ -3893,3 +3893,68 @@ script_04_nettoyage_intelligent()
 [2026.09.16-23.46.05:670][369]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.09.16-23.46.05:670][369]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.09.16-23.46.05:671][369]AssetCheck: /Game/Project/UI/Blueprints/WBP_MenuOverlay Validating asset
+[2026.09.16-23.46.33:743][994]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.09.16-23.46.33:752][994]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.09.16-23.46.33:765][994]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.09.16-23.46.33:791][995]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.09.16-23.46.39:388][298]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Menu
+[2026.09.16-23.46.39:398][298]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.09.16-23.46.40:514][357]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Project/UI/Blueprints/WBP_Menu.WBP_Menu
+[2026.09.16-23.46.40:514][357]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.09.16-23.46.40:541][357]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.09.16-23.46.44:486][543]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 748.447205
+[2026.09.16-23.46.44:646][552]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.16-23.46.44:646][552]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 748.590149, Update Interval: 306.681732
+[2026.09.16-23.51.56:601][962]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1060.560425
+[2026.09.16-23.51.56:735][969]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.16-23.51.56:735][969]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1060.677490, Update Interval: 354.116638
+[2026.09.16-23.52.03:920][361]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 45361
+[2026.09.16-23.52.03:921][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.16-23.52.03:933][362]LogSlate: Took 0.000842 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.09.16-23.52.03:939][362]LogSlate: Took 0.001181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.09.16-23.52.03:942][362]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.09.16-23.52.03:944][362]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.09.16-23.52.03:947][362]LogSlate: Took 0.001541 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.09.16-23.52.03:947][362]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.09.16-23.54.12:657][446]LogEditorTransaction: Undo Wrap Widgets
+[2026.09.16-23.54.14:984][555]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 5194
+[2026.09.16-23.54.14:984][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.16-23.54.15:028][556]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.09.16-23.54.15:033][556]LogSlate: Took 0.000333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.09.16-23.54.15:036][556]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.09.16-23.54.15:038][556]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.09.16-23.54.15:039][556]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.09.16-23.54.15:766][596]LogSlate: Took 0.001058 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.09.16-23.54.27:942][295]LogSlate: Window 'Color Picker' being destroyed
+[2026.09.16-23.56.21:817][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.09.16-23.56.21:819][413]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.045
+[2026.09.16-23.56.21:819][413]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Project/UI/Blueprints/WBP_Menu] ([2] browsable assets)...
+[2026.09.16-23.56.21:822][413]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Project/UI/Blueprints/WBP_Menu.WBP_Menu]
+[2026.09.16-23.56.21:822][413]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/UI/Blueprints/WBP_Menu]
+[2026.09.16-23.56.21:826][413]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Project/UI/Blueprints/WBP_Menu_Auto2
+[2026.09.16-23.56.21:826][413]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/WBP_Menu_Auto252B5B47C40A45E54E7EA61A282F66457.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/Autosaves/Game/Project/UI/Blueprints/WBP_Menu_Auto2.uasset'
+[2026.09.16-23.56.21:828][413]LogFileHelpers: Auto-saving content packages took 0.008
+[2026.09.16-23.57.41:623][536]LogSlate: Window 'Color Picker' being destroyed
+[2026.09.16-23.57.44:367][689]LogEditorTransaction: Undo Edit Content Color and Opacity
+[2026.09.16-23.57.54:850][259]LogSlate: Window 'Color Picker' being destroyed
+[2026.09.16-23.58.00:880][584]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1424.836426
+[2026.09.16-23.58.01:025][592]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.16-23.58.01:025][592]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1424.963745, Update Interval: 344.622345
+[2026.09.16-23.59.08:982][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.09.16-23.59.09:080][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.16-23.59.09:127][275]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Project/UI/Blueprints/WBP_Menu] ([2] browsable assets)...
+[2026.09.16-23.59.09:133][275]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Project/UI/Blueprints/WBP_Menu.WBP_Menu]
+[2026.09.16-23.59.09:133][275]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/UI/Blueprints/WBP_Menu]
+[2026.09.16-23.59.09:144][275]LogSavePackage: Moving output files for package: /Game/Project/UI/Blueprints/WBP_Menu
+[2026.09.16-23.59.09:144][275]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/WBP_MenuC63057E5485A015CF1F9119CBC38C44B.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/UI/Blueprints/WBP_Menu.uasset'
+[2026.09.16-23.59.09:161][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.728 ms (total: 10.5 sec)
+[2026.09.16-23.59.09:202][275]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.16-23.59.09:202][275]LogContentValidation: Enabled validators:
+[2026.09.16-23.59.09:202][275]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.16-23.59.09:202][275]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.16-23.59.09:202][275]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.16-23.59.09:202][275]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.16-23.59.09:202][275]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.16-23.59.09:202][275]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.16-23.59.09:204][275]AssetCheck: /Game/Project/UI/Blueprints/WBP_Menu Validating asset
+[2026.09.16-23.59.09:337][275]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/SourceControl/UncontrolledChangelists.json
