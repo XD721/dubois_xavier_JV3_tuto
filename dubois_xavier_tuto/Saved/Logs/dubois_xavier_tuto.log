@@ -3794,3 +3794,102 @@ script_04_nettoyage_intelligent()
 [2026.09.16-23.38.16:124][990]LogPython: Déjà propre : Input
 [2026.09.16-23.38.16:124][990]LogPython: --- TERMINÉ ---
 [2026.09.16-23.38.16:183][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.09.16-23.39.55:238][358]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.09.16-23.39.55:286][358]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.09.16-23.39.55:297][358]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.09.16-23.39.55:322][359]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.09.16-23.40.06:765][ 33]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_MenuOverlay
+[2026.09.16-23.40.06:784][ 33]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.09.16-23.40.07:618][ 82]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Project/UI/Blueprints/WBP_MenuOverlay.WBP_MenuOverlay
+[2026.09.16-23.40.07:620][ 82]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.09.16-23.40.07:633][ 82]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.09.16-23.40.07:645][ 82]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2026.09.16-23.40.07:789][ 82]LogStreaming: Display: FlushAsyncLoading(515): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.16-23.40.09:306][ 82]LogSlate: Took 0.000650 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.09.16-23.40.09:317][ 82]LogSlate: Took 0.000439 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.09.16-23.40.18:703][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.09.16-23.40.53:476][519]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 397.435211
+[2026.09.16-23.40.53:619][526]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.16-23.40.53:619][526]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 397.561890, Update Interval: 347.643677
+[2026.09.16-23.40.56:092][665]LogSlate: Took 0.003254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.09.16-23.42.58:669][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.09.16-23.43.02:829][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.09.16-23.43.03:005][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.16-23.43.03:043][519]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Project/UI/Blueprints/WBP_MenuOverlay] ([2] browsable assets)...
+[2026.09.16-23.43.03:047][519]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Project/UI/Blueprints/WBP_MenuOverlay.WBP_MenuOverlay]
+[2026.09.16-23.43.03:047][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/UI/Blueprints/WBP_MenuOverlay]
+[2026.09.16-23.43.03:052][519]LogSavePackage: Moving output files for package: /Game/Project/UI/Blueprints/WBP_MenuOverlay
+[2026.09.16-23.43.03:052][519]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/WBP_MenuOverlay5F9E56184D69979722A71DAC2A21B94A.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/UI/Blueprints/WBP_MenuOverlay.uasset'
+[2026.09.16-23.43.03:066][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.199 ms (total: 10.3 sec)
+[2026.09.16-23.43.03:105][519]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.16-23.43.03:105][519]LogContentValidation: Enabled validators:
+[2026.09.16-23.43.03:105][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.16-23.43.03:105][519]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.16-23.43.03:105][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.16-23.43.03:105][519]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.16-23.43.03:105][519]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.16-23.43.03:105][519]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.16-23.43.03:106][519]AssetCheck: /Game/Project/UI/Blueprints/WBP_MenuOverlay Validating asset
+[2026.09.16-23.43.03:235][519]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.16-23.43.59:076][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.09.16-23.43.59:343][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.16-23.43.59:389][538]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Project/UI/Blueprints/WBP_MenuOverlay] ([2] browsable assets)...
+[2026.09.16-23.43.59:393][538]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Project/UI/Blueprints/WBP_MenuOverlay.WBP_MenuOverlay]
+[2026.09.16-23.43.59:393][538]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/UI/Blueprints/WBP_MenuOverlay]
+[2026.09.16-23.43.59:399][538]LogSavePackage: Moving output files for package: /Game/Project/UI/Blueprints/WBP_MenuOverlay
+[2026.09.16-23.43.59:399][538]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/WBP_MenuOverlayB35B68384B048338A79E73959B21778D.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/UI/Blueprints/WBP_MenuOverlay.uasset'
+[2026.09.16-23.43.59:413][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.704 ms (total: 10.3 sec)
+[2026.09.16-23.43.59:465][538]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.16-23.43.59:465][538]LogContentValidation: Enabled validators:
+[2026.09.16-23.43.59:465][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.16-23.43.59:465][538]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.16-23.43.59:465][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.16-23.43.59:465][538]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.16-23.43.59:465][538]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.16-23.43.59:465][538]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.16-23.43.59:466][538]AssetCheck: /Game/Project/UI/Blueprints/WBP_MenuOverlay Validating asset
+[2026.09.16-23.45.31:855][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.09.16-23.45.31:857][615]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.039
+[2026.09.16-23.45.31:859][615]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Project/UI/Blueprints/WBP_MenuOverlay] ([2] browsable assets)...
+[2026.09.16-23.45.31:863][615]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Project/UI/Blueprints/WBP_MenuOverlay.WBP_MenuOverlay]
+[2026.09.16-23.45.31:864][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/UI/Blueprints/WBP_MenuOverlay]
+[2026.09.16-23.45.31:869][615]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Project/UI/Blueprints/WBP_MenuOverlay_Auto1
+[2026.09.16-23.45.31:869][615]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/WBP_MenuOverlay_Auto16753E4074158A8720705939A643A2A4C.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/Autosaves/Game/Project/UI/Blueprints/WBP_MenuOverlay_Auto1.uasset'
+[2026.09.16-23.45.31:870][615]LogFileHelpers: Auto-saving content packages took 0.013
+[2026.09.16-23.45.46:607][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.09.16-23.45.46:722][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.16-23.45.46:765][402]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Project/UI/Blueprints/WBP_MenuOverlay] ([2] browsable assets)...
+[2026.09.16-23.45.46:769][402]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Project/UI/Blueprints/WBP_MenuOverlay.WBP_MenuOverlay]
+[2026.09.16-23.45.46:769][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/UI/Blueprints/WBP_MenuOverlay]
+[2026.09.16-23.45.46:776][402]LogSavePackage: Moving output files for package: /Game/Project/UI/Blueprints/WBP_MenuOverlay
+[2026.09.16-23.45.46:776][402]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/WBP_MenuOverlayD913CB5A40C917B916C1C9BC4149190B.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/UI/Blueprints/WBP_MenuOverlay.uasset'
+[2026.09.16-23.45.46:790][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.270 ms (total: 10.4 sec)
+[2026.09.16-23.45.46:838][402]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.16-23.45.46:838][402]LogContentValidation: Enabled validators:
+[2026.09.16-23.45.46:838][402]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.16-23.45.46:838][402]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.16-23.45.46:838][402]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.16-23.45.46:838][402]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.16-23.45.46:838][402]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.16-23.45.46:838][402]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.16-23.45.46:840][402]AssetCheck: /Game/Project/UI/Blueprints/WBP_MenuOverlay Validating asset
+[2026.09.16-23.45.56:584][905]LogSlate: Window 'Color Picker' being destroyed
+[2026.09.16-23.46.00:205][ 97]LogSlate: Window 'Color Picker' being destroyed
+[2026.09.16-23.46.03:841][287]LogSlate: Window 'Color Picker' being destroyed
+[2026.09.16-23.46.05:461][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.09.16-23.46.05:561][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.16-23.46.05:604][369]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Project/UI/Blueprints/WBP_MenuOverlay] ([2] browsable assets)...
+[2026.09.16-23.46.05:607][369]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Project/UI/Blueprints/WBP_MenuOverlay.WBP_MenuOverlay]
+[2026.09.16-23.46.05:607][369]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/UI/Blueprints/WBP_MenuOverlay]
+[2026.09.16-23.46.05:612][369]LogSavePackage: Moving output files for package: /Game/Project/UI/Blueprints/WBP_MenuOverlay
+[2026.09.16-23.46.05:612][369]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/WBP_MenuOverlayA60FDEF84A327F4299B2CC9892F40C88.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/UI/Blueprints/WBP_MenuOverlay.uasset'
+[2026.09.16-23.46.05:625][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.983 ms (total: 10.5 sec)
+[2026.09.16-23.46.05:670][369]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.16-23.46.05:670][369]LogContentValidation: Enabled validators:
+[2026.09.16-23.46.05:670][369]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.16-23.46.05:670][369]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.16-23.46.05:670][369]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.16-23.46.05:670][369]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.16-23.46.05:670][369]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.16-23.46.05:670][369]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.16-23.46.05:671][369]AssetCheck: /Game/Project/UI/Blueprints/WBP_MenuOverlay Validating asset
