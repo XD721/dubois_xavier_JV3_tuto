@@ -4252,3 +4252,321 @@ script_04_nettoyage_intelligent()
 [2026.09.17-00.08.05:649][374]LogContentBrowser: End creating deferred item NewBlueprint
 [2026.09.17-00.08.06:174][405]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/Blueprints/Core/BP_MyGameInstance.BP_MyGameInstance
 [2026.09.17-00.08.06:174][405]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2026.09.17-00.08.46:916][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.09.17-00.08.46:925][643]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.17-00.08.47:012][643]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Project/Blueprints/Core/BP_MyGameInstance] ([2] browsable assets)...
+[2026.09.17-00.08.47:012][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/Blueprints/Core/BP_MyGameInstance]
+[2026.09.17-00.08.47:014][643]LogSavePackage: Moving output files for package: /Game/Project/Blueprints/Core/BP_MyGameInstance
+[2026.09.17-00.08.47:014][643]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/BP_MyGameInstance63275CB5460A1624DBA11A96413243C0.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/Blueprints/Core/BP_MyGameInstance.uasset'
+[2026.09.17-00.08.47:029][643]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.040 ms (total: 10.9 sec)
+[2026.09.17-00.08.47:115][643]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.17-00.08.47:115][643]LogContentValidation: Enabled validators:
+[2026.09.17-00.08.47:115][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.17-00.08.47:115][643]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.17-00.08.47:115][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.17-00.08.47:115][643]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.17-00.08.47:115][643]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.17-00.08.47:115][643]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.17-00.08.47:116][643]AssetCheck: /Game/Project/Blueprints/Core/BP_MyGameInstance Validating asset
+[2026.09.17-00.08.47:140][643]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.17-00.09.29:223][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.09.17-00.09.29:229][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.17-00.09.29:287][162]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Project/Blueprints/Core/BP_MyGameInstance] ([2] browsable assets)...
+[2026.09.17-00.09.29:287][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/Blueprints/Core/BP_MyGameInstance]
+[2026.09.17-00.09.29:289][162]LogSavePackage: Moving output files for package: /Game/Project/Blueprints/Core/BP_MyGameInstance
+[2026.09.17-00.09.29:289][162]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/BP_MyGameInstance357199484539F6557A8C16A42DDED5E0.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/Blueprints/Core/BP_MyGameInstance.uasset'
+[2026.09.17-00.09.29:299][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.473 ms (total: 10.9 sec)
+[2026.09.17-00.09.29:377][162]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.17-00.09.29:377][162]LogContentValidation: Enabled validators:
+[2026.09.17-00.09.29:377][162]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.17-00.09.29:377][162]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.17-00.09.29:377][162]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.17-00.09.29:377][162]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.17-00.09.29:377][162]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.17-00.09.29:377][162]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.17-00.09.29:377][162]AssetCheck: /Game/Project/Blueprints/Core/BP_MyGameInstance Validating asset
+[2026.09.17-00.10.15:012][821]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2158.971436
+[2026.09.17-00.10.15:147][829]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.17-00.10.15:147][830]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2159.097412, Update Interval: 311.975464
+[2026.09.17-00.10.25:870][446]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Project/UI/Blueprints/WBP_Menu.WBP_Menu
+[2026.09.17-00.10.25:870][446]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2026.09.17-00.10.25:878][446]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2026.09.17-00.11.28:624][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.09.17-00.11.28:634][234]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.17-00.11.28:707][234]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Project/UI/Blueprints/WBP_Menu] ([2] browsable assets)...
+[2026.09.17-00.11.28:710][234]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Project/UI/Blueprints/WBP_Menu.WBP_Menu]
+[2026.09.17-00.11.28:710][234]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/UI/Blueprints/WBP_Menu]
+[2026.09.17-00.11.28:717][234]LogSavePackage: Moving output files for package: /Game/Project/UI/Blueprints/WBP_Menu
+[2026.09.17-00.11.28:718][234]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/WBP_MenuBAC09D704A8EC0EB6A2D72ADAD1EE5CE.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/UI/Blueprints/WBP_Menu.uasset'
+[2026.09.17-00.11.28:728][234]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.884 ms (total: 11.0 sec)
+[2026.09.17-00.11.28:807][234]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.17-00.11.28:807][234]LogContentValidation: Enabled validators:
+[2026.09.17-00.11.28:807][234]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.17-00.11.28:807][234]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.17-00.11.28:807][234]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.17-00.11.28:807][234]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.17-00.11.28:807][234]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.17-00.11.28:807][234]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.17-00.11.28:808][234]AssetCheck: /Game/Project/UI/Blueprints/WBP_Menu Validating asset
+[2026.09.17-00.11.49:197][335]LogSlate: External Image Picker: DecompressImage failed
+[2026.09.17-00.11.51:166][434]LogRenderer: Using fallback RTPSO
+[2026.09.17-00.11.51:225][436]LogRenderer: Using fallback RTPSO
+[2026.09.17-00.11.51:232][437]LogRenderer: Using fallback RTPSO
+[2026.09.17-00.11.51:241][437]LogRenderer: Using fallback RTPSO
+[2026.09.17-00.11.51:251][438]LogRenderer: Using fallback RTPSO
+[2026.09.17-00.11.51:255][438]LogD3D12RHI: Creating RTPSO with 17 shaders (0 cached, 1 new) took 89.12 ms. Compile time 85.15 ms, link time 3.95 ms.
+[2026.09.17-00.11.51:889][467]LogRenderer: Using fallback RTPSO
+[2026.09.17-00.11.51:945][469]LogRenderer: Using fallback RTPSO
+[2026.09.17-00.11.51:955][470]LogRenderer: Using fallback RTPSO
+[2026.09.17-00.11.51:965][470]LogRenderer: Using fallback RTPSO
+[2026.09.17-00.11.51:973][471]LogRenderer: Using fallback RTPSO
+[2026.09.17-00.11.51:989][472]LogRenderer: Using fallback RTPSO
+[2026.09.17-00.11.52:006][473]LogRenderer: Using fallback RTPSO
+[2026.09.17-00.11.52:023][474]LogRenderer: Using fallback RTPSO
+[2026.09.17-00.11.52:030][474]LogD3D12RHI: Creating RTPSO with 19 shaders (0 cached, 2 new) took 140.46 ms. Compile time 137.11 ms, link time 3.32 ms.
+[2026.09.17-00.12.24:394][367]LogSlate: Window 'Project Settings' being destroyed
+[2026.09.17-00.12.24:401][367]LogSlate: Window 'Project Settings' being destroyed
+[2026.09.17-00.12.26:937][508]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2026.09.17-00.12.26:950][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.17-00.12.27:020][508]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Project/UI/Blueprints/WBP_Menu] ([2] browsable assets)...
+[2026.09.17-00.12.27:023][508]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Project/UI/Blueprints/WBP_Menu.WBP_Menu]
+[2026.09.17-00.12.27:023][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/UI/Blueprints/WBP_Menu]
+[2026.09.17-00.12.27:032][508]LogSavePackage: Moving output files for package: /Game/Project/UI/Blueprints/WBP_Menu
+[2026.09.17-00.12.27:033][508]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/WBP_Menu551D74A14BE8DA234531B4819A2B2090.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/UI/Blueprints/WBP_Menu.uasset'
+[2026.09.17-00.12.27:044][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.300 ms (total: 11.1 sec)
+[2026.09.17-00.12.27:123][508]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.17-00.12.27:123][508]LogContentValidation: Enabled validators:
+[2026.09.17-00.12.27:123][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.17-00.12.27:123][508]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.17-00.12.27:123][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.17-00.12.27:123][508]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.17-00.12.27:123][508]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.17-00.12.27:123][508]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.17-00.12.27:124][508]AssetCheck: /Game/Project/UI/Blueprints/WBP_Menu Validating asset
+[2026.09.17-00.13.00:430][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.09.17-00.13.00:439][370]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.17-00.13.00:511][370]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Project/UI/Blueprints/WBP_Menu] ([2] browsable assets)...
+[2026.09.17-00.13.00:516][370]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Project/UI/Blueprints/WBP_Menu.WBP_Menu]
+[2026.09.17-00.13.00:516][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/UI/Blueprints/WBP_Menu]
+[2026.09.17-00.13.00:524][370]LogSavePackage: Moving output files for package: /Game/Project/UI/Blueprints/WBP_Menu
+[2026.09.17-00.13.00:524][370]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/WBP_MenuD598F1734D34A66664C1709E9CEA71D9.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/UI/Blueprints/WBP_Menu.uasset'
+[2026.09.17-00.13.00:535][370]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.438 ms (total: 11.2 sec)
+[2026.09.17-00.13.00:607][370]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.17-00.13.00:607][370]LogContentValidation: Enabled validators:
+[2026.09.17-00.13.00:607][370]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.17-00.13.00:607][370]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.17-00.13.00:607][370]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.17-00.13.00:607][370]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.17-00.13.00:607][370]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.17-00.13.00:607][370]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.17-00.13.00:609][370]AssetCheck: /Game/Project/UI/Blueprints/WBP_Menu Validating asset
+[2026.09.17-00.13.35:354][585]LogWindowsTextInputMethodSystem: Activated input method: Anglais (États-Unis) - (Keyboard).
+[2026.09.17-00.13.35:354][585]LogWindowsTextInputMethodSystem: Activated input method: Anglais (États-Unis) - (Keyboard).
+[2026.09.17-00.14.08:602][515]LogShaderCompilers: Display: ================================================
+[2026.09.17-00.14.08:602][515]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.09.17-00.14.08:602][515]LogShaderCompilers: Display: Total job queries 18 392, among them cache hits 5 206 (28.31%), DDC hits 12 936 (70.33%), Duplicates 203 (1.10%)
+[2026.09.17-00.14.08:602][515]LogShaderCompilers: Display: Tracking 12 983 distinct input hashes that result in 11 891 distinct outputs (91.59%)
+[2026.09.17-00.14.08:602][515]LogShaderCompilers: Display: RAM used: 158,65 MiB of 819,20 MiB budget. Usage: 19.37%
+[2026.09.17-00.14.08:602][515]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.09.17-00.14.08:602][515]LogShaderCompilers: Display: Shaders Compiled: 47
+[2026.09.17-00.14.08:602][515]LogShaderCompilers: Display: Jobs assigned 47, completed 47 (100%)
+[2026.09.17-00.14.08:602][515]LogShaderCompilers: Display: Average time worker was idle: 356.05 s
+[2026.09.17-00.14.08:602][515]LogShaderCompilers: Display: Time job spent in pending queue: average 0.17 s, longest 3.20 s
+[2026.09.17-00.14.08:602][515]LogShaderCompilers: Display: Job execution time: average 2.17 s, max 9.91 s
+[2026.09.17-00.14.08:602][515]LogShaderCompilers: Display: Job life time (pending + execution): average 2.34 s, max 10.00
+[2026.09.17-00.14.08:602][515]LogShaderCompilers: Display: Shader code size: total 529,782 KiB, numShaders 49, average 10,812 KiB, min 3,607 KiB, max 33,121 KiB
+[2026.09.17-00.14.08:602][515]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 28.39 s
+[2026.09.17-00.14.08:602][515]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.20%
+[2026.09.17-00.14.08:602][515]LogShaderCompilers: Display: Jobs were issued in 47 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.09.17-00.14.08:602][515]LogShaderCompilers: Display: Average processing rate: 1.66 jobs/sec
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display: Total thread time: 60,673 s
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display: Total thread preprocess time: 1 010,125 s
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display: Percentage time preprocessing: 1664.86%
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display: Effective parallelization: 2.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.267131
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 8.20 sec, max 8.20 sec, min 8.20 sec)
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 1.77 sec, max 1.91 sec, min 1.64 sec)
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 1.64 sec, max 2.40 sec, min 0.76 sec)
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   21 times, average 1.60 sec, max 7.34 sec, min 0.20 sec)
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.54 sec, max 1.54 sec, min 1.54 sec)
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 55.33% of total time (compiled   21 times, average 1.60 sec, max 7.34 sec, min 0.20 sec)
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 13.51% of total time (compiled    1 times, average 8.20 sec, max 8.20 sec, min 8.20 sec)
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.80% of total time (compiled    4 times, average 1.64 sec, max 2.40 sec, min 0.76 sec)
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 5.85% of total time (compiled    2 times, average 1.77 sec, max 1.91 sec, min 1.64 sec)
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display:                                                 FLumenCardCS - 2.55% of total time (compiled    1 times, average 1.54 sec, max 1.54 sec, min 1.54 sec)
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display: === Material stats ===
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display: Materials Translated:    149
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display: Material Translation Only: 0.06 s (39%)
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.09.17-00.14.08:603][515]LogShaderCompilers: Display: ================================================
+[2026.09.17-00.14.09:829][586]LogContentBrowser: Deferred new asset file creation: NewFunctionLibrary
+[2026.09.17-00.14.09:839][586]LogContentBrowser: Creating deferred item: NewFunctionLibrary
+[2026.09.17-00.14.09:855][587]LogContentBrowser: Renaming the item being created (Deferred Item: NewFunctionLibrary).
+[2026.09.17-00.14.19:405][156]LogContentBrowser: Attempting asset rename: NewFunctionLibrary -> BP_MyFunctionLibrary
+[2026.09.17-00.14.19:411][156]LogContentBrowser: End creating deferred item NewFunctionLibrary
+[2026.09.17-00.14.19:944][185]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/Systems/BP_MyFunctionLibrary.BP_MyFunctionLibrary
+[2026.09.17-00.14.19:945][185]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2026.09.17-00.15.40:333][798]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2026.09.17-00.15.45:300][ 72]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2026.09.17-00.16.00:931][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.09.17-00.16.00:939][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.17-00.16.01:011][964]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Project/Systems/BP_MyFunctionLibrary] ([2] browsable assets)...
+[2026.09.17-00.16.01:011][964]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/Systems/BP_MyFunctionLibrary]
+[2026.09.17-00.16.01:015][964]LogSavePackage: Moving output files for package: /Game/Project/Systems/BP_MyFunctionLibrary
+[2026.09.17-00.16.01:015][964]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/BP_MyFunctionLibraryB4C38C664AF617FE41B72FA37EEA48F1.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/Systems/BP_MyFunctionLibrary.uasset'
+[2026.09.17-00.16.01:030][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.691 ms (total: 11.3 sec)
+[2026.09.17-00.16.01:120][964]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.17-00.16.01:120][964]LogContentValidation: Enabled validators:
+[2026.09.17-00.16.01:120][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.17-00.16.01:120][964]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.17-00.16.01:120][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.17-00.16.01:120][964]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.17-00.16.01:120][964]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.17-00.16.01:120][964]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.17-00.16.01:120][964]AssetCheck: /Game/Project/Systems/BP_MyFunctionLibrary Validating asset
+[2026.09.17-00.16.01:172][964]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.17-00.16.01:604][990]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2505.566895
+[2026.09.17-00.16.01:751][998]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.17-00.16.01:751][998]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2505.696533, Update Interval: 321.220734
+[2026.09.17-00.16.02:549][ 46]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2026.09.17-00.16.02:549][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.17-00.16.02:596][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.09.17-00.16.33:793][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2026.09.17-00.16.33:805][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.17-00.16.33:881][827]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Project/UI/Blueprints/WBP_Menu] ([2] browsable assets)...
+[2026.09.17-00.16.33:886][827]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Project/UI/Blueprints/WBP_Menu.WBP_Menu]
+[2026.09.17-00.16.33:886][827]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/UI/Blueprints/WBP_Menu]
+[2026.09.17-00.16.33:896][827]LogSavePackage: Moving output files for package: /Game/Project/UI/Blueprints/WBP_Menu
+[2026.09.17-00.16.33:896][827]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/WBP_Menu65EE32F04E76BE6FE6FFD499FE177584.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/UI/Blueprints/WBP_Menu.uasset'
+[2026.09.17-00.16.33:908][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.599 ms (total: 11.4 sec)
+[2026.09.17-00.16.33:996][827]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.17-00.16.33:996][827]LogContentValidation: Enabled validators:
+[2026.09.17-00.16.33:996][827]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.17-00.16.33:996][827]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.17-00.16.33:996][827]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.17-00.16.33:996][827]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.17-00.16.33:996][827]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.17-00.16.33:996][827]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.17-00.16.33:998][827]AssetCheck: /Game/Project/UI/Blueprints/WBP_Menu Validating asset
+[2026.09.17-00.17.00:248][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.09.17-00.17.00:260][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.17-00.17.00:347][287]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Project/UI/Blueprints/WBP_Menu] ([2] browsable assets)...
+[2026.09.17-00.17.00:352][287]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Project/UI/Blueprints/WBP_Menu.WBP_Menu]
+[2026.09.17-00.17.00:352][287]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/UI/Blueprints/WBP_Menu]
+[2026.09.17-00.17.00:362][287]LogSavePackage: Moving output files for package: /Game/Project/UI/Blueprints/WBP_Menu
+[2026.09.17-00.17.00:363][287]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/WBP_MenuD1B021314DFE1F4ABFF34AB99ADF524C.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/UI/Blueprints/WBP_Menu.uasset'
+[2026.09.17-00.17.00:377][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.622 ms (total: 11.5 sec)
+[2026.09.17-00.17.00:476][287]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.17-00.17.00:476][287]LogContentValidation: Enabled validators:
+[2026.09.17-00.17.00:476][287]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.17-00.17.00:476][287]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.17-00.17.00:476][287]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.17-00.17.00:476][287]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.17-00.17.00:476][287]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.17-00.17.00:476][287]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.17-00.17.00:478][287]AssetCheck: /Game/Project/UI/Blueprints/WBP_Menu Validating asset
+[2026.09.17-00.17.06:086][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.09.17-00.17.06:101][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.17-00.17.06:191][614]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Project/UI/Blueprints/WBP_Menu] ([2] browsable assets)...
+[2026.09.17-00.17.06:195][614]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Project/UI/Blueprints/WBP_Menu.WBP_Menu]
+[2026.09.17-00.17.06:195][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/UI/Blueprints/WBP_Menu]
+[2026.09.17-00.17.06:204][614]LogSavePackage: Moving output files for package: /Game/Project/UI/Blueprints/WBP_Menu
+[2026.09.17-00.17.06:205][614]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/WBP_Menu32EA338E4F7315B5D51915B485B400F1.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/UI/Blueprints/WBP_Menu.uasset'
+[2026.09.17-00.17.06:217][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.607 ms (total: 11.6 sec)
+[2026.09.17-00.17.06:305][614]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.17-00.17.06:305][614]LogContentValidation: Enabled validators:
+[2026.09.17-00.17.06:305][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.17-00.17.06:305][614]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.17-00.17.06:305][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.17-00.17.06:305][614]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.17-00.17.06:305][614]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.17-00.17.06:305][614]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.17-00.17.06:307][614]AssetCheck: /Game/Project/UI/Blueprints/WBP_Menu Validating asset
+[2026.09.17-00.17.40:181][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.09.17-00.17.40:198][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.17-00.17.40:281][119]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Project/Blueprints/Core/BP_MyGameInstance] ([2] browsable assets)...
+[2026.09.17-00.17.40:281][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/Blueprints/Core/BP_MyGameInstance]
+[2026.09.17-00.17.40:284][119]LogSavePackage: Moving output files for package: /Game/Project/Blueprints/Core/BP_MyGameInstance
+[2026.09.17-00.17.40:285][119]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/BP_MyGameInstance60114E694D4357E13AC6B6A41B02F654.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/Blueprints/Core/BP_MyGameInstance.uasset'
+[2026.09.17-00.17.40:297][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.247 ms (total: 11.7 sec)
+[2026.09.17-00.17.40:391][119]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.17-00.17.40:391][119]LogContentValidation: Enabled validators:
+[2026.09.17-00.17.40:391][119]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.17-00.17.40:391][119]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.17-00.17.40:391][119]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.17-00.17.40:391][119]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.17-00.17.40:391][119]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.17-00.17.40:391][119]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.17-00.17.40:391][119]AssetCheck: /Game/Project/Blueprints/Core/BP_MyGameInstance Validating asset
+[2026.09.17-00.18.11:305][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.09.17-00.18.11:314][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.17-00.18.11:379][430]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Project/UI/Blueprints/WBP_Menu] ([2] browsable assets)...
+[2026.09.17-00.18.11:383][430]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Project/UI/Blueprints/WBP_Menu.WBP_Menu]
+[2026.09.17-00.18.11:383][430]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/UI/Blueprints/WBP_Menu]
+[2026.09.17-00.18.11:391][430]LogSavePackage: Moving output files for package: /Game/Project/UI/Blueprints/WBP_Menu
+[2026.09.17-00.18.11:391][430]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/WBP_MenuD065744C491D09E8667CE7BEBC6DEFE7.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/UI/Blueprints/WBP_Menu.uasset'
+[2026.09.17-00.18.11:400][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.030 ms (total: 11.8 sec)
+[2026.09.17-00.18.11:469][430]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.17-00.18.11:469][430]LogContentValidation: Enabled validators:
+[2026.09.17-00.18.11:469][430]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.17-00.18.11:469][430]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.17-00.18.11:469][430]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.17-00.18.11:469][430]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.17-00.18.11:469][430]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.17-00.18.11:469][430]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.17-00.18.11:470][430]AssetCheck: /Game/Project/UI/Blueprints/WBP_Menu Validating asset
+[2026.09.17-00.18.25:855][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.09.17-00.18.25:867][261]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.17-00.18.25:931][261]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Project/Blueprints/Core/BP_MyGameInstance] ([2] browsable assets)...
+[2026.09.17-00.18.25:931][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/Blueprints/Core/BP_MyGameInstance]
+[2026.09.17-00.18.25:935][261]LogSavePackage: Moving output files for package: /Game/Project/Blueprints/Core/BP_MyGameInstance
+[2026.09.17-00.18.25:935][261]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/BP_MyGameInstance04D6123446E142C27DC10BBC4E0C2CBC.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/Blueprints/Core/BP_MyGameInstance.uasset'
+[2026.09.17-00.18.25:946][261]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.093 ms (total: 11.9 sec)
+[2026.09.17-00.18.26:027][261]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.17-00.18.26:027][261]LogContentValidation: Enabled validators:
+[2026.09.17-00.18.26:027][261]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.17-00.18.26:027][261]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.17-00.18.26:027][261]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.17-00.18.26:027][261]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.17-00.18.26:027][261]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.17-00.18.26:027][261]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.17-00.18.26:028][261]AssetCheck: /Game/Project/Blueprints/Core/BP_MyGameInstance Validating asset
+[2026.09.17-00.19.29:866][915]LogEditorTransaction: Undo Move Nodes
+[2026.09.17-00.19.30:385][931]LogEditorTransaction: Undo Straighten Connection(s)
+[2026.09.17-00.19.33:633][121]LogEditorTransaction: Undo Straighten Connection(s)
+[2026.09.17-00.20.05:081][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.09.17-00.20.05:096][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.17-00.20.05:175][796]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Project/Blueprints/Core/BP_MyGameInstance] ([2] browsable assets)...
+[2026.09.17-00.20.05:175][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/Blueprints/Core/BP_MyGameInstance]
+[2026.09.17-00.20.05:179][796]LogSavePackage: Moving output files for package: /Game/Project/Blueprints/Core/BP_MyGameInstance
+[2026.09.17-00.20.05:180][796]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/BP_MyGameInstanceA26F2A624E75344D1DB1388F85604629.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/Blueprints/Core/BP_MyGameInstance.uasset'
+[2026.09.17-00.20.05:191][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.014 ms (total: 12.0 sec)
+[2026.09.17-00.20.05:276][796]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.17-00.20.05:276][796]LogContentValidation: Enabled validators:
+[2026.09.17-00.20.05:276][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.17-00.20.05:276][796]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.17-00.20.05:276][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.17-00.20.05:276][796]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.17-00.20.05:276][796]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.17-00.20.05:276][796]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.17-00.20.05:276][796]AssetCheck: /Game/Project/Blueprints/Core/BP_MyGameInstance Validating asset
+[2026.09.17-00.20.16:187][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.09.17-00.20.16:194][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.17-00.20.16:271][271]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Project/Blueprints/Core/BP_MyGameInstance] ([2] browsable assets)...
+[2026.09.17-00.20.16:271][271]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/Blueprints/Core/BP_MyGameInstance]
+[2026.09.17-00.20.16:277][271]LogSavePackage: Moving output files for package: /Game/Project/Blueprints/Core/BP_MyGameInstance
+[2026.09.17-00.20.16:277][271]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/BP_MyGameInstanceE3AC71A14249C78BF73B748F4BC36331.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/Blueprints/Core/BP_MyGameInstance.uasset'
+[2026.09.17-00.20.16:291][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.638 ms (total: 12.1 sec)
+[2026.09.17-00.20.16:376][271]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.17-00.20.16:376][271]LogContentValidation: Enabled validators:
+[2026.09.17-00.20.16:376][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.17-00.20.16:376][271]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.17-00.20.16:376][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.17-00.20.16:376][271]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.17-00.20.16:376][271]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.17-00.20.16:376][271]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.17-00.20.16:376][271]AssetCheck: /Game/Project/Blueprints/Core/BP_MyGameInstance Validating asset

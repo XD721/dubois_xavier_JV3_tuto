@@ -393,7 +393,9 @@
 				"C:/Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/UI/Blueprints/WBP_MenuOverlay.uasset",
 				"C:/Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/UI/Blueprints/WBP_Menu.uasset",
 				"C:/Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/Maps/Main/Lvl_MainMenu.umap",
-				"C:/Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/Blueprints/Core/BP_SaveGame.uasset"
+				"C:/Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/Blueprints/Core/BP_SaveGame.uasset",
+				"C:/Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/Blueprints/Core/BP_MyGameInstance.uasset",
+				"C:/Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/Systems/BP_MyFunctionLibrary.uasset"
 			]
 		}
 	]
