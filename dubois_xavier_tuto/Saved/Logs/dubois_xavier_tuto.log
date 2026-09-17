@@ -4174,3 +4174,81 @@ script_04_nettoyage_intelligent()
 [2026.09.17-00.03.16:289][124]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
 [2026.09.17-00.03.16:289][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2026.09.17-00.03.16:346][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.09.17-00.04.07:020][371]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1790.979492
+[2026.09.17-00.04.08:021][374]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.17-00.04.08:021][374]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1791.646118, Update Interval: 308.467041
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: ================================================
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Total job queries 18 369, among them cache hits 5 206 (28.34%), DDC hits 12 921 (70.34%), Duplicates 203 (1.11%)
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Tracking 12 960 distinct input hashes that result in 11 872 distinct outputs (91.60%)
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: RAM used: 158,51 MiB of 819,20 MiB budget. Usage: 19.35%
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Shaders Compiled: 39
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Jobs assigned 39, completed 39 (100%)
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Average time worker was idle: 192.71 s
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Time job spent in pending queue: average 0.19 s, longest 3.20 s
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Job execution time: average 2.42 s, max 9.91 s
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Job life time (pending + execution): average 2.61 s, max 10.00
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Shader code size: total 460,817 KiB, numShaders 40, average 11,52 KiB, min 3,607 KiB, max 33,121 KiB
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.18 s
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.20%
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Jobs were issued in 39 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Average processing rate: 1.49 jobs/sec
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Total thread time: 56,031 s
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Total thread preprocess time: 1 009,592 s
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Percentage time preprocessing: 1801.84%
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Effective parallelization: 2.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.267575
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 8.20 sec, max 8.20 sec, min 8.20 sec)
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.84 sec, max 2.40 sec, min 0.76 sec)
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 1.77 sec, max 1.91 sec, min 1.64 sec)
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   21 times, average 1.60 sec, max 7.34 sec, min 0.20 sec)
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.54 sec, max 1.54 sec, min 1.54 sec)
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 59.91% of total time (compiled   21 times, average 1.60 sec, max 7.34 sec, min 0.20 sec)
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 14.63% of total time (compiled    1 times, average 8.20 sec, max 8.20 sec, min 8.20 sec)
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.88% of total time (compiled    3 times, average 1.84 sec, max 2.40 sec, min 0.76 sec)
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 6.33% of total time (compiled    2 times, average 1.77 sec, max 1.91 sec, min 1.64 sec)
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display:                                                 FLumenCardCS - 2.76% of total time (compiled    1 times, average 1.54 sec, max 1.54 sec, min 1.54 sec)
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: === Material stats ===
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Materials Translated:    149
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Material Translation Only: 0.06 s (39%)
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.09.17-00.05.08:098][219]LogShaderCompilers: Display: ================================================
+[2026.09.17-00.05.18:627][468]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.09.17-00.05.18:637][468]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.09.17-00.05.18:643][468]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.09.17-00.05.18:674][470]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.09.17-00.05.27:905][ 24]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_SaveGame
+[2026.09.17-00.05.27:912][ 24]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.09.17-00.05.30:111][ 97]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/Blueprints/Core/BP_SaveGame.BP_SaveGame
+[2026.09.17-00.05.30:111][ 97]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.09.17-00.05.36:803][468]LogSlate: Took 0.000770 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.09.17-00.06.13:098][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.09.17-00.06.13:105][617]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.17-00.06.13:135][617]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Project/Blueprints/Core/BP_SaveGame] ([2] browsable assets)...
+[2026.09.17-00.06.13:135][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/Blueprints/Core/BP_SaveGame]
+[2026.09.17-00.06.13:138][617]LogSavePackage: Moving output files for package: /Game/Project/Blueprints/Core/BP_SaveGame
+[2026.09.17-00.06.13:138][617]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/BP_SaveGame019B2E4247270D91115ECBACE0EB9AC5.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/Blueprints/Core/BP_SaveGame.uasset'
+[2026.09.17-00.06.13:149][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.078 ms (total: 10.7 sec)
+[2026.09.17-00.06.13:177][617]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.17-00.06.13:177][617]LogContentValidation: Enabled validators:
+[2026.09.17-00.06.13:177][617]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.17-00.06.13:177][617]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.17-00.06.13:177][617]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.17-00.06.13:177][617]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.17-00.06.13:177][617]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.17-00.06.13:177][617]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.17-00.06.13:178][617]AssetCheck: /Game/Project/Blueprints/Core/BP_SaveGame Validating asset
+[2026.09.17-00.06.13:205][617]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.17-00.07.59:076][981]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.09.17-00.07.59:088][981]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.09.17-00.07.59:094][981]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.09.17-00.07.59:103][982]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.09.17-00.08.05:644][374]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_MyGameInstance
+[2026.09.17-00.08.05:649][374]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.09.17-00.08.06:174][405]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/Blueprints/Core/BP_MyGameInstance.BP_MyGameInstance
+[2026.09.17-00.08.06:174][405]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
