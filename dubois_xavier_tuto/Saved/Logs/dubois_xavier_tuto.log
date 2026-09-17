@@ -19845,3 +19845,362 @@ script_04_nettoyage_intelligent()
 [2026.09.17-01.24.53:188][808]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6637.132812
 [2026.09.17-01.24.54:189][810]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.09.17-01.24.54:189][810]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6637.799805, Update Interval: 312.651154
+[2026.09.17-01.25.23:402][275]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2026.09.17-01.25.23:402][275]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_109
+[2026.09.17-01.26.11:367][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.09.17-01.26.11:395][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.17-01.26.11:465][964]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.09.17-01.26.11:505][964]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.09.17-01.26.11:505][964]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.09.17-01.26.11:521][964]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.09.17-01.26.11:521][964]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/BP_ThirdPersonCharacterA738E11C4D401E383973BEA7792E02D4.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.09.17-01.26.11:531][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.007 ms (total: 19.6 sec)
+[2026.09.17-01.26.11:616][964]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.17-01.26.11:616][964]LogContentValidation: Enabled validators:
+[2026.09.17-01.26.11:616][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.17-01.26.11:616][964]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.17-01.26.11:616][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.17-01.26.11:616][964]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.17-01.26.11:616][964]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.17-01.26.11:616][964]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.17-01.26.11:616][964]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.09.17-01.26.18:626][354]LogStreaming: Display: FlushAsyncLoading(1544): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.17-01.26.18:649][354]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.09.17-01.26.18:650][354]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.09.17-01.26.18:650][354]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.17-01.26.18:650][354]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.17-01.26.18:651][354]LogWorldPartition: Display: WorldPartition initialize took 1.535 ms (total: 496.665 ms)
+[2026.09.17-01.26.18:653][354]LogContentBrowser: Deferred new asset file creation: Lvl_ThirdPerson1
+[2026.09.17-01.26.18:665][354]LogContentBrowser: Creating deferred item: Lvl_ThirdPerson1
+[2026.09.17-01.26.18:684][355]LogContentBrowser: Renaming the item being created (Deferred Item: Lvl_ThirdPerson1).
+[2026.09.17-01.26.21:705][525]LogContentBrowser: Attempting asset rename: Lvl_ThirdPerson1 -> Lvl_ThirdPerson2
+[2026.09.17-01.26.21:721][525]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson2
+[2026.09.17-01.26.21:721][525]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson2)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.09.17-01.26.21:721][525]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.17-01.26.21:721][525]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Lvl_ThirdPerson2.Lvl_ThirdPerson2, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.17-01.26.21:722][525]LogWorldPartition: Display: WorldPartition initialize took 182 us (total: 496.847 ms)
+[2026.09.17-01.26.21:726][525]LogContentBrowser: End creating deferred item Lvl_ThirdPerson1
+[2026.09.17-01.26.32:639][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.17-01.26.34:208][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.09.17-01.26.34:243][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.09.17-01.26.34:274][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.09.17-01.26.34:307][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.09.17-01.26.34:311][102]LogSavePackage: Moving output files for package: /Game/Project/Maps/Main/Lvl_ThirdPerson2
+[2026.09.17-01.26.34:311][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/Lvl_ThirdPerson294E6D46F4D11A9DE821A59AD989C1C82.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/Maps/Main/Lvl_ThirdPerson2.umap'
+[2026.09.17-01.26.34:318][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.17-01.26.34:320][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/7/TO/SKNK9SULL7NLVZLHHVYFKI
+[2026.09.17-01.26.34:320][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/SKNK9SULL7NLVZLHHVYFKI35CA3EBF491D3921CAAD61A8A3BD8DCF.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/7/TO/SKNK9SULL7NLVZLHHVYFKI.uasset'
+[2026.09.17-01.26.34:323][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/B/DZ/WUVH6C4EGEEC629RD8JQG0
+[2026.09.17-01.26.34:323][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/WUVH6C4EGEEC629RD8JQG09314F5BE4A4CE207FC80DAB9683590F0.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/B/DZ/WUVH6C4EGEEC629RD8JQG0.uasset'
+[2026.09.17-01.26.34:324][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/D/45/XEDYBAWOMXT4AJ69MV6TB0
+[2026.09.17-01.26.34:324][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/XEDYBAWOMXT4AJ69MV6TB017D46DD2430F8A057BA513BB921CEEC2.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/D/45/XEDYBAWOMXT4AJ69MV6TB0.uasset'
+[2026.09.17-01.26.34:326][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/0/IA/S17LC7YL8L2YBZD4MPH5SH
+[2026.09.17-01.26.34:326][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/S17LC7YL8L2YBZD4MPH5SHC05BCDF3443B00A8A8A57F8CFBB6AA89.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/0/IA/S17LC7YL8L2YBZD4MPH5SH.uasset'
+[2026.09.17-01.26.34:328][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/A/2J/BSUJAWSMD2WVCSV5M7IPA7
+[2026.09.17-01.26.34:328][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/BSUJAWSMD2WVCSV5M7IPA7810AB72E4CAD2A9D2F5F77B5880B4BC3.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/A/2J/BSUJAWSMD2WVCSV5M7IPA7.uasset'
+[2026.09.17-01.26.34:329][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/2/EN/H061E8GI9BVHH3UXXO67NK
+[2026.09.17-01.26.34:329][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/H061E8GI9BVHH3UXXO67NK7862A90B455D74019EC2BC9D89563DBE.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/2/EN/H061E8GI9BVHH3UXXO67NK.uasset'
+[2026.09.17-01.26.34:331][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/9/5S/TVV3WZZDUY2R67VU0U1NCK
+[2026.09.17-01.26.34:331][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/TVV3WZZDUY2R67VU0U1NCK0A1C26894131D52BD69B20A6A96F06B3.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/9/5S/TVV3WZZDUY2R67VU0U1NCK.uasset'
+[2026.09.17-01.26.34:333][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/C/HI/QZP8SDGAFW8KHEUCF6S4MO
+[2026.09.17-01.26.34:333][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/QZP8SDGAFW8KHEUCF6S4MOD4F315904AB8E9CBE549A9B258F50CFF.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/C/HI/QZP8SDGAFW8KHEUCF6S4MO.uasset'
+[2026.09.17-01.26.34:335][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/1/X3/KR7LFVWGMC2PLVK5YYRBZY
+[2026.09.17-01.26.34:335][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/KR7LFVWGMC2PLVK5YYRBZY337A1B79479C7DB0901B5A87296A9598.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/1/X3/KR7LFVWGMC2PLVK5YYRBZY.uasset'
+[2026.09.17-01.26.34:337][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/0/KD/69ETUHDX7PRWHXAB9FW7CK
+[2026.09.17-01.26.34:337][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/69ETUHDX7PRWHXAB9FW7CK32DCAA4E40A1A50BC8FA10966F7C6310.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/0/KD/69ETUHDX7PRWHXAB9FW7CK.uasset'
+[2026.09.17-01.26.34:339][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/2/0A/HAAW9NQN1LEXKSLRCRSC4J
+[2026.09.17-01.26.34:339][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/HAAW9NQN1LEXKSLRCRSC4JB0ABD6AC486D52FB2442FE9AF60F4D94.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/2/0A/HAAW9NQN1LEXKSLRCRSC4J.uasset'
+[2026.09.17-01.26.34:341][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/D/UA/ELG7TV8KE9NF3YDRELX4B8
+[2026.09.17-01.26.34:341][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/ELG7TV8KE9NF3YDRELX4B849D069914281CB7EDB6F629E06075A60.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/D/UA/ELG7TV8KE9NF3YDRELX4B8.uasset'
+[2026.09.17-01.26.34:342][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/7/D2/1GUGQMC49MN23YIDWSS6SO
+[2026.09.17-01.26.34:342][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/1GUGQMC49MN23YIDWSS6SOFB8ECD5D4171A81051342595634D444D.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/7/D2/1GUGQMC49MN23YIDWSS6SO.uasset'
+[2026.09.17-01.26.34:345][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/8/3C/75KK7JYNXJ327OTBJNSSN5
+[2026.09.17-01.26.34:345][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/75KK7JYNXJ327OTBJNSSN52265C5D84E37AA05CB653C833725067F.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/8/3C/75KK7JYNXJ327OTBJNSSN5.uasset'
+[2026.09.17-01.26.34:346][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/0/J1/0FEJFY8HLGB1XKWY63XS1F
+[2026.09.17-01.26.34:347][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/0FEJFY8HLGB1XKWY63XS1FA59CE31C4356395A2AE2479854F6C562.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/0/J1/0FEJFY8HLGB1XKWY63XS1F.uasset'
+[2026.09.17-01.26.34:348][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/E/FY/LPFMF90B3GAXE48UPATCCM
+[2026.09.17-01.26.34:348][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/LPFMF90B3GAXE48UPATCCMFE790ED14A7EDC307CB9A5AEF97D2975.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/E/FY/LPFMF90B3GAXE48UPATCCM.uasset'
+[2026.09.17-01.26.34:350][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/D/UK/A1GQN0OO0Q4IGEO9G7LSFM
+[2026.09.17-01.26.34:350][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/A1GQN0OO0Q4IGEO9G7LSFMA1DE04A146C2AE67AB1AF497EC830882.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/D/UK/A1GQN0OO0Q4IGEO9G7LSFM.uasset'
+[2026.09.17-01.26.34:351][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/E/XU/I8SU7RBJM6NK2T8E1A74MP
+[2026.09.17-01.26.34:352][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/I8SU7RBJM6NK2T8E1A74MP27C01ADF430D9B512FEBCF9A326B4C3E.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/E/XU/I8SU7RBJM6NK2T8E1A74MP.uasset'
+[2026.09.17-01.26.34:353][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/C/AF/AEGBFEQFUXUZ69CYYT72LI
+[2026.09.17-01.26.34:353][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/AEGBFEQFUXUZ69CYYT72LIF7F246784998620E5CE6B193E117A95D.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/C/AF/AEGBFEQFUXUZ69CYYT72LI.uasset'
+[2026.09.17-01.26.34:355][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/A/BE/XQ0I2GK2XE34A8AM2CD3VS
+[2026.09.17-01.26.34:355][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/XQ0I2GK2XE34A8AM2CD3VS78A37CBF42D8C4297CF98AB361D2CD31.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/A/BE/XQ0I2GK2XE34A8AM2CD3VS.uasset'
+[2026.09.17-01.26.34:357][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/1/XL/WO25LR2H3I15BFB63IE37E
+[2026.09.17-01.26.34:357][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/WO25LR2H3I15BFB63IE37ED8D50E344B04CA1B077A90863E8439D5.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/1/XL/WO25LR2H3I15BFB63IE37E.uasset'
+[2026.09.17-01.26.34:358][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/2/0C/P2N0TZVHC4O2GPP19X78LH
+[2026.09.17-01.26.34:358][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/P2N0TZVHC4O2GPP19X78LH533338D548AC17D2414838899239134A.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/2/0C/P2N0TZVHC4O2GPP19X78LH.uasset'
+[2026.09.17-01.26.34:360][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/4/GJ/LE0CV8S1LF587RKDU0ZBOK
+[2026.09.17-01.26.34:360][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/LE0CV8S1LF587RKDU0ZBOK9939906042EE26F67985D9B4CAA22D06.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/4/GJ/LE0CV8S1LF587RKDU0ZBOK.uasset'
+[2026.09.17-01.26.34:362][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/C/5M/YOIGMQDLJP5CG9THT87XJO
+[2026.09.17-01.26.34:362][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/YOIGMQDLJP5CG9THT87XJO9EE35094429F73AB2A26E3A0CCE5920A.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/C/5M/YOIGMQDLJP5CG9THT87XJO.uasset'
+[2026.09.17-01.26.34:364][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/C/ED/RN84TA3Q7S3FHCZVPXQD9Y
+[2026.09.17-01.26.34:364][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/RN84TA3Q7S3FHCZVPXQD9Y62F70046446435DE1B93B7A5093DD7D2.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/C/ED/RN84TA3Q7S3FHCZVPXQD9Y.uasset'
+[2026.09.17-01.26.34:366][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/0/UL/LDO8RTMZOS86A60GAH9PFF
+[2026.09.17-01.26.34:366][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/LDO8RTMZOS86A60GAH9PFF1F7D6F17473F67E8635D818EF64C6A85.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/0/UL/LDO8RTMZOS86A60GAH9PFF.uasset'
+[2026.09.17-01.26.34:368][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/8/QY/7LVBT2RZP9BAM1YELZNWOI
+[2026.09.17-01.26.34:368][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/7LVBT2RZP9BAM1YELZNWOI7039CB1D4DDF7FB90D99069BEC668980.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/8/QY/7LVBT2RZP9BAM1YELZNWOI.uasset'
+[2026.09.17-01.26.34:369][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/B/JI/ATMJ0WGV34O0C6AB0QTM7E
+[2026.09.17-01.26.34:369][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/ATMJ0WGV34O0C6AB0QTM7E15FA6BFE481AC3F76E442A848F2E2C01.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/B/JI/ATMJ0WGV34O0C6AB0QTM7E.uasset'
+[2026.09.17-01.26.34:371][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/4/1S/OGHIRITZH9DWBSD0Q6VMOB
+[2026.09.17-01.26.34:371][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/OGHIRITZH9DWBSD0Q6VMOB62153EF748D9C351EE210094066DCAE6.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/4/1S/OGHIRITZH9DWBSD0Q6VMOB.uasset'
+[2026.09.17-01.26.34:372][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/4/JC/GX7J9E9AXK7O2JR90T7467
+[2026.09.17-01.26.34:372][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/GX7J9E9AXK7O2JR90T746726B3187C438ED86CE0E758AD6D15E516.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/4/JC/GX7J9E9AXK7O2JR90T7467.uasset'
+[2026.09.17-01.26.34:375][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/8/YE/O1B5WTJ6B49PAA2HT6K4Z2
+[2026.09.17-01.26.34:375][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/O1B5WTJ6B49PAA2HT6K4Z2D1FF1F134DE56C209E2B37A98EF6A540.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/8/YE/O1B5WTJ6B49PAA2HT6K4Z2.uasset'
+[2026.09.17-01.26.34:376][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/7/7L/DR0DNDFRZ1VDFLT4WCZAEF
+[2026.09.17-01.26.34:376][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/DR0DNDFRZ1VDFLT4WCZAEF9B9059FF4C5B223107DD2B97BEEFC6D2.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/7/7L/DR0DNDFRZ1VDFLT4WCZAEF.uasset'
+[2026.09.17-01.26.34:378][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/D/9B/THT74HBJZ82YN40TXHG9HG
+[2026.09.17-01.26.34:378][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/THT74HBJZ82YN40TXHG9HG5A5075F44806A5B364E63686FE6C1789.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/D/9B/THT74HBJZ82YN40TXHG9HG.uasset'
+[2026.09.17-01.26.34:379][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/5/86/OSD04TK1080DE2SA32YDXK
+[2026.09.17-01.26.34:380][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/OSD04TK1080DE2SA32YDXK596CFFE4494EB3DE85F6D293367D1A04.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/5/86/OSD04TK1080DE2SA32YDXK.uasset'
+[2026.09.17-01.26.34:382][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/6/HE/IAN9JFHD5NI0137IB0Y352
+[2026.09.17-01.26.34:382][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/IAN9JFHD5NI0137IB0Y35242487B3A4469985B8179ACB1EFF9D5BE.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/6/HE/IAN9JFHD5NI0137IB0Y352.uasset'
+[2026.09.17-01.26.34:384][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/8/5Z/ZJUYKX4AT7VJWW0NAMMAOW
+[2026.09.17-01.26.34:384][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/ZJUYKX4AT7VJWW0NAMMAOWD911B6B64163916D2580DAB028DA902D.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/8/5Z/ZJUYKX4AT7VJWW0NAMMAOW.uasset'
+[2026.09.17-01.26.34:385][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/8/QM/N1NML1PXO5QLIFM16S0NMJ
+[2026.09.17-01.26.34:385][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/N1NML1PXO5QLIFM16S0NMJA0297FEC46FEDD93A2E8C68535000F39.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/8/QM/N1NML1PXO5QLIFM16S0NMJ.uasset'
+[2026.09.17-01.26.34:387][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/1/B5/NYJRTAMEXSO4WRLJKOTCWZ
+[2026.09.17-01.26.34:387][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/NYJRTAMEXSO4WRLJKOTCWZ05C675D2425EF477009AF9BCF985BD91.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/1/B5/NYJRTAMEXSO4WRLJKOTCWZ.uasset'
+[2026.09.17-01.26.34:389][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/6/WB/L5ETS6OT8V22VLHQR58LJK
+[2026.09.17-01.26.34:389][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/L5ETS6OT8V22VLHQR58LJK61F96D414471F52CF34AA1812C63E270.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/6/WB/L5ETS6OT8V22VLHQR58LJK.uasset'
+[2026.09.17-01.26.34:391][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/A/T8/Z82VSULN7MXSBBC0LT5NM8
+[2026.09.17-01.26.34:391][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/Z82VSULN7MXSBBC0LT5NM830D965684192AE50C63BB7AA22534200.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/A/T8/Z82VSULN7MXSBBC0LT5NM8.uasset'
+[2026.09.17-01.26.34:393][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/9/HI/1U883A3DJUS6CZUFHCQ6X2
+[2026.09.17-01.26.34:393][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/1U883A3DJUS6CZUFHCQ6X247C3DF9E4075FEFB576B5D9537A62991.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/9/HI/1U883A3DJUS6CZUFHCQ6X2.uasset'
+[2026.09.17-01.26.34:395][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/F/35/3EHQNTYR395O7JXO8KQEE9
+[2026.09.17-01.26.34:395][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/3EHQNTYR395O7JXO8KQEE9AD059E964A1FC525CFB67DB794C4B721.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/F/35/3EHQNTYR395O7JXO8KQEE9.uasset'
+[2026.09.17-01.26.34:397][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/1/ZA/27G7BMIAQI25FOFRSV7W5M
+[2026.09.17-01.26.34:397][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/27G7BMIAQI25FOFRSV7W5M9EF715EC4026C549FD50CDA72570B104.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/1/ZA/27G7BMIAQI25FOFRSV7W5M.uasset'
+[2026.09.17-01.26.34:398][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/E/G5/L7S1NNCL9JN2IT3W5S8VV6
+[2026.09.17-01.26.34:398][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/L7S1NNCL9JN2IT3W5S8VV6908B56334F9BF28B33E6B79CE511D0C1.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/E/G5/L7S1NNCL9JN2IT3W5S8VV6.uasset'
+[2026.09.17-01.26.34:400][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/6/EP/PXHLGQ1RNUM8BNQCKO92PP
+[2026.09.17-01.26.34:400][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/PXHLGQ1RNUM8BNQCKO92PPDD68C891414D5AACA74BE5A9CC566E8E.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/6/EP/PXHLGQ1RNUM8BNQCKO92PP.uasset'
+[2026.09.17-01.26.34:401][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/E/10/DTBOHLQV8I4AIRZERMB4UU
+[2026.09.17-01.26.34:401][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/DTBOHLQV8I4AIRZERMB4UUFAEC5A444798041376C0EAAA8B585177.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/E/10/DTBOHLQV8I4AIRZERMB4UU.uasset'
+[2026.09.17-01.26.34:403][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/5/HK/YHGPQG1PTCWN93AJN9KHSH
+[2026.09.17-01.26.34:403][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/YHGPQG1PTCWN93AJN9KHSHD009A95C450CE14CB9F421B7D3ED02A1.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/5/HK/YHGPQG1PTCWN93AJN9KHSH.uasset'
+[2026.09.17-01.26.34:405][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/2/9F/63X39J4PR06ZR94VC9HGC9
+[2026.09.17-01.26.34:405][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/63X39J4PR06ZR94VC9HGC9EE0883464E655009A1D0C2959873BA57.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/2/9F/63X39J4PR06ZR94VC9HGC9.uasset'
+[2026.09.17-01.26.34:407][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/B/49/DKTBFRE22JTULLP5QY9O3G
+[2026.09.17-01.26.34:407][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/DKTBFRE22JTULLP5QY9O3G59A431964C113CBAF0877EA1D37463E6.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/B/49/DKTBFRE22JTULLP5QY9O3G.uasset'
+[2026.09.17-01.26.34:408][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/C/H4/CMGPLNYOGBNX48TMBQDASR
+[2026.09.17-01.26.34:408][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/CMGPLNYOGBNX48TMBQDASR6E66C82944680F6C0DBC9DBA464118F1.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/C/H4/CMGPLNYOGBNX48TMBQDASR.uasset'
+[2026.09.17-01.26.34:410][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/0/OL/NYI6D3J5XEFOBCPUQM71LN
+[2026.09.17-01.26.34:410][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/NYI6D3J5XEFOBCPUQM71LNDE0AFCEA42DA35EB56FB52813912F243.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/0/OL/NYI6D3J5XEFOBCPUQM71LN.uasset'
+[2026.09.17-01.26.34:412][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/1/U9/I9LG50VUNFUQF60BCPYF65
+[2026.09.17-01.26.34:412][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/I9LG50VUNFUQF60BCPYF65E820A14A4736C1F2741E4693B1EE1F3E.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/1/U9/I9LG50VUNFUQF60BCPYF65.uasset'
+[2026.09.17-01.26.34:416][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/1/Z1/I87KV2K4BOXW3TSOUJRRZR
+[2026.09.17-01.26.34:416][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/I87KV2K4BOXW3TSOUJRRZR9E208EEC44E86BBEA8E46F8B794DC142.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/1/Z1/I87KV2K4BOXW3TSOUJRRZR.uasset'
+[2026.09.17-01.26.34:419][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/0/UH/N7B9JC2O9VD2O37A1QNYSU
+[2026.09.17-01.26.34:419][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/N7B9JC2O9VD2O37A1QNYSUB204E9AF450A6B679BDE2E9CA93678EC.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/0/UH/N7B9JC2O9VD2O37A1QNYSU.uasset'
+[2026.09.17-01.26.34:421][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/C/48/KKOK8Q1GCSHSVG6NCLVJZM
+[2026.09.17-01.26.34:421][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/KKOK8Q1GCSHSVG6NCLVJZM759AF4CD49C8F0E5E8B0689A70777193.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/C/48/KKOK8Q1GCSHSVG6NCLVJZM.uasset'
+[2026.09.17-01.26.34:422][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/1/9S/6LD2RSQJWCT8MYLNFXSZ26
+[2026.09.17-01.26.34:422][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/6LD2RSQJWCT8MYLNFXSZ26CDA8B2574B9EE61E54A7FAA60A87B58D.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/1/9S/6LD2RSQJWCT8MYLNFXSZ26.uasset'
+[2026.09.17-01.26.34:424][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/2/E6/ZJRW71SX8YYGVI3C2Y30QM
+[2026.09.17-01.26.34:424][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/ZJRW71SX8YYGVI3C2Y30QMF87F6CEE4C3A2D0A0CA58DA9D6B3E9FA.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/2/E6/ZJRW71SX8YYGVI3C2Y30QM.uasset'
+[2026.09.17-01.26.34:426][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/9/QA/0ILPE25AQWNY9QLBBRTCL2
+[2026.09.17-01.26.34:426][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/0ILPE25AQWNY9QLBBRTCL2FD3D73D94D6ED29B85F36F9CDCE08614.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/9/QA/0ILPE25AQWNY9QLBBRTCL2.uasset'
+[2026.09.17-01.26.34:428][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/4/3J/4YE0UZ2O4YJV8CCXYIRPTO
+[2026.09.17-01.26.34:428][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/4YE0UZ2O4YJV8CCXYIRPTOEC672FE6486ADAB5BE6690B3B3F53A17.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/4/3J/4YE0UZ2O4YJV8CCXYIRPTO.uasset'
+[2026.09.17-01.26.34:429][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/7/AG/YGC71YQZAYGT4TZIJE8YI9
+[2026.09.17-01.26.34:430][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/YGC71YQZAYGT4TZIJE8YI9DD7665FD425D375179F997B94E629E80.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/7/AG/YGC71YQZAYGT4TZIJE8YI9.uasset'
+[2026.09.17-01.26.34:431][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/7/P0/22OTV7VGXO9EY3F6F2STR8
+[2026.09.17-01.26.34:431][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/22OTV7VGXO9EY3F6F2STR88E0ED5AA4F609B8FF43C34A35C1AB936.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/7/P0/22OTV7VGXO9EY3F6F2STR8.uasset'
+[2026.09.17-01.26.34:434][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/2/8E/AWW5N8KFSHCU03WQ5S8CYT
+[2026.09.17-01.26.34:434][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/AWW5N8KFSHCU03WQ5S8CYT46456E4B4C88D0B535BDB28C2F2E275B.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/2/8E/AWW5N8KFSHCU03WQ5S8CYT.uasset'
+[2026.09.17-01.26.34:436][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/4/07/UZ9DTBJQ2NEPX74GNEDU2Z
+[2026.09.17-01.26.34:436][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/UZ9DTBJQ2NEPX74GNEDU2ZE547A44B476CEDF06C5B7A8630B87A51.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/4/07/UZ9DTBJQ2NEPX74GNEDU2Z.uasset'
+[2026.09.17-01.26.34:437][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/A/96/OYNE6DOMDT7UOCGCYT7YL1
+[2026.09.17-01.26.34:437][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/OYNE6DOMDT7UOCGCYT7YL1C09C481840B02A49226F9E85F7112AC5.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/A/96/OYNE6DOMDT7UOCGCYT7YL1.uasset'
+[2026.09.17-01.26.34:440][102]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/D/AS/4VB5G89YV4PESPM6UZR5N9
+[2026.09.17-01.26.34:440][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/4VB5G89YV4PESPM6UZR5N949B1047343BDCB982D4E8A952C8B1ADA.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/D/AS/4VB5G89YV4PESPM6UZR5N9.uasset'
+[2026.09.17-01.26.34:442][102]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Project/Maps/Main/Lvl_ThirdPerson2/A/PC/NTJK55800VOQYHNMAF822Y
+[2026.09.17-01.26.34:442][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/NTJK55800VOQYHNMAF822YF386A81B4DEFD012F13AF4ADDD4D81D5.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalObjects__/Project/Maps/Main/Lvl_ThirdPerson2/A/PC/NTJK55800VOQYHNMAF822Y.uasset'
+[2026.09.17-01.26.34:444][102]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Project/Maps/Main/Lvl_ThirdPerson2/D/I2/Q2MFXUZFPDBTAK74JQ72B1
+[2026.09.17-01.26.34:444][102]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/Q2MFXUZFPDBTAK74JQ72B1CDA955B54FFEBDC03522198D26C1731B.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalObjects__/Project/Maps/Main/Lvl_ThirdPerson2/D/I2/Q2MFXUZFPDBTAK74JQ72B1.uasset'
+[2026.09.17-01.26.34:447][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.088 ms (total: 19.7 sec)
+[2026.09.17-01.26.34:454][102]LogFileHelpers: Saving map 'Lvl_ThirdPerson2' took 0.177
+[2026.09.17-01.26.34:454][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.81 sec (total: 21.5 sec)
+[2026.09.17-01.26.34:504][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.09.17-01.26.34:535][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.09.17-01.26.34:564][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.09.17-01.26.34:598][102]LogSlate: Warning: Menu could not be pushed.  A path to the parent widget(SAssetTreeItem [SPathView.cpp(2088)]) could not be found
+[2026.09.17-01.26.34:693][102]LogContentValidation: Display: Starting to validate 68 assets
+[2026.09.17-01.26.34:693][102]LogContentValidation: Enabled validators:
+[2026.09.17-01.26.34:693][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.17-01.26.34:693][102]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.17-01.26.34:693][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.17-01.26.34:693][102]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.17-01.26.34:693][102]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.17-01.26.34:693][102]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.17-01.26.34:695][102]AssetCheck: /Game/Project/Maps/Main/Lvl_ThirdPerson2 Validating asset
+[2026.09.17-01.26.34:721][102]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.17-01.26.48:417][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.09.17-01.26.48:424][771]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Project/Maps/Main/Lvl_ThirdPerson2.Lvl_ThirdPerson2
+[2026.09.17-01.26.48:424][771]Cmd: MAP LOAD FILE="../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/Maps/Main/Lvl_ThirdPerson2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.09.17-01.26.48:436][771]LogWorld: UWorld::CleanupWorld for Lvl_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.09.17-01.26.48:436][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.17-01.26.48:462][771]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.09.17-01.26.48:465][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.09.17-01.26.48:468][771]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson2, bSessionEnded=true, bCleanupResources=true
+[2026.09.17-01.26.48:468][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.17-01.26.48:468][771]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Project/Maps/Main/Lvl_ThirdPerson2.Lvl_ThirdPerson2
+[2026.09.17-01.26.48:468][771]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.09.17-01.26.48:469][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.17-01.26.48:469][771]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.09.17-01.26.48:498][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.09.17-01.26.48:615][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.09.17-01.26.48:618][771]LogStreaming: Display: FlushAsyncLoading(1612): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.17-01.26.48:622][771]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_ThirdPerson2'.
+[2026.09.17-01.26.48:622][771]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson2
+[2026.09.17-01.26.48:624][771]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson2)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.09.17-01.26.48:624][771]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.17-01.26.48:624][771]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Project/Maps/Main/Lvl_ThirdPerson2.Lvl_ThirdPerson2, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.17-01.26.48:642][771]LogWorldPartition: Display: WorldPartition initialize took 18.304 ms (total: 515.151 ms)
+[2026.09.17-01.26.48:645][771]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.09.17-01.26.48:674][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.09.17-01.26.48:682][771]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.09.17-01.26.48:683][771]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,488ms to complete.
+[2026.09.17-01.26.48:770][773]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.17-01.27.05:521][690]LogContentBrowser: Deferred new asset file creation: MI_ThirdPersonColWay1
+[2026.09.17-01.27.05:530][690]LogContentBrowser: Creating deferred item: MI_ThirdPersonColWay1
+[2026.09.17-01.27.05:551][691]LogContentBrowser: Renaming the item being created (Deferred Item: MI_ThirdPersonColWay1).
+[2026.09.17-01.27.05:955][716]LogContentBrowser: Attempting asset rename: MI_ThirdPersonColWay1 -> MI_ThirdPersonColWay1
+[2026.09.17-01.27.05:960][716]LogContentBrowser: End creating deferred item MI_ThirdPersonColWay1
+[2026.09.17-01.27.07:014][768]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ThirdPerson/MI_ThirdPersonColWay1.MI_ThirdPersonColWay1
+[2026.09.17-01.27.07:030][768]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_110
+[2026.09.17-01.27.07:037][768]LogStreaming: Display: FlushAsyncLoading(1679): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.17-01.27.07:055][768]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2026.09.17-01.27.07:071][768]LogStaticMesh: Built static mesh [0.03s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2026.09.17-01.27.07:090][768]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2026.09.17-01.27.07:091][768]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2026.09.17-01.27.18:274][303]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/_External/LevelPrototyping/Materials/MI_DefaultColorway.MI_DefaultColorway
+[2026.09.17-01.27.18:275][303]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_111
+[2026.09.17-01.27.22:540][508]LogWorld: UWorld::CleanupWorld for World_111, bSessionEnded=true, bCleanupResources=true
+[2026.09.17-01.27.22:541][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.17-01.27.22:624][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.09.17-01.27.23:214][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.09.17-01.27.24:552][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.09.17-01.27.24:583][541]LogWorld: UWorld::CleanupWorld for World_110, bSessionEnded=true, bCleanupResources=true
+[2026.09.17-01.27.24:583][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.17-01.27.24:644][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.09.17-01.27.30:893][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.09.17-01.27.31:060][881]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.09.17-01.27.31:067][881]LogSlate: Took 0.004451 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.09.17-01.27.32:081][881]LogSlate: Window 'Delete Assets' being destroyed
+[2026.09.17-01.27.32:131][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.09.17-01.27.32:166][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.09.17-01.27.32:203][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.09.17-01.27.34:369][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.09.17-01.27.50:758][905]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.17-01.27.50:759][905]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.17-01.27.50:759][905]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Project/Maps/Main/Lvl_ThirdPerson2.Lvl_ThirdPerson2:PersistentLevel.StaticMeshActor_0
+[2026.09.17-01.27.50:760][905]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Project/Maps/Main/Lvl_ThirdPerson2.Lvl_ThirdPerson2:PersistentLevel.StaticMeshActor_0
+[2026.09.17-01.27.50:929][908]LogPSOHitching: Encountered 450 PSO creation hitches so far (132 graphics, 318 compute). 0 of them were precached.
+[2026.09.17-01.27.51:616][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.09.17-01.27.51:621][946]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2026.09.17-01.27.51:630][946]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.17-01.27.51:630][946]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.17-01.27.51:635][946]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Project/Maps/Main/Lvl_ThirdPerson2.Lvl_ThirdPerson2:PersistentLevel.StaticMeshActor_UAID_D4A2CDF6A2805E0203_1425295487
+[2026.09.17-01.27.51:636][946]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Project/Maps/Main/Lvl_ThirdPerson2.Lvl_ThirdPerson2:PersistentLevel.StaticMeshActor_UAID_D4A2CDF6A2805E0203_1425295487
+[2026.09.17-01.28.03:453][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.09.17-01.28.03:462][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.17-01.28.03:565][621]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/9/4I/712CQAJTQ0XL94A39HPC31
+[2026.09.17-01.28.03:565][621]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/712CQAJTQ0XL94A39HPC3184FDC9DF49DBC930B5E879859DACD955.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/9/4I/712CQAJTQ0XL94A39HPC31.uasset'
+[2026.09.17-01.28.03:568][621]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/E/KA/5ZQ1G3HOCRTXAXFGZ7MCY7
+[2026.09.17-01.28.03:568][621]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/5ZQ1G3HOCRTXAXFGZ7MCY7B455841C4597E4C6AAE09999F3B4188C.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/E/KA/5ZQ1G3HOCRTXAXFGZ7MCY7.uasset'
+[2026.09.17-01.28.03:570][621]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/D/SS/E0ECLM96J5TOW28O5EBSQB
+[2026.09.17-01.28.03:570][621]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/E0ECLM96J5TOW28O5EBSQBF76879F54C395ED73E37ECA305E9AD45.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/D/SS/E0ECLM96J5TOW28O5EBSQB.uasset'
+[2026.09.17-01.28.03:573][621]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/1/KA/GB2UB7GH6JZIH2F1Q8S91V
+[2026.09.17-01.28.03:573][621]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/GB2UB7GH6JZIH2F1Q8S91V2E5FA56E446239E2578BF39B0298AB6D.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/__ExternalActors__/Project/Maps/Main/Lvl_ThirdPerson2/1/KA/GB2UB7GH6JZIH2F1Q8S91V.uasset'
+[2026.09.17-01.28.03:596][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.694 ms (total: 21.6 sec)
+[2026.09.17-01.28.03:687][621]LogContentValidation: Display: Starting to validate 4 assets
+[2026.09.17-01.28.03:687][621]LogContentValidation: Enabled validators:
+[2026.09.17-01.28.03:687][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.17-01.28.03:687][621]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.17-01.28.03:687][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.17-01.28.03:687][621]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.17-01.28.03:687][621]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.17-01.28.03:687][621]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.17-01.28.03:687][621]AssetCheck: /Game/Project/Maps/Main/Lvl_ThirdPerson2 Validating asset
+[2026.09.17-01.28.03:712][621]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.17-01.28.08:198][873]Cmd: MAP LOAD FILE="../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/Maps/Main/Lvl_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.09.17-01.28.08:217][873]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson2, bSessionEnded=true, bCleanupResources=true
+[2026.09.17-01.28.08:217][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.17-01.28.08:217][873]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Project/Maps/Main/Lvl_ThirdPerson2.Lvl_ThirdPerson2
+[2026.09.17-01.28.08:252][873]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.09.17-01.28.08:255][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.09.17-01.28.08:259][873]LogStreaming: Display: FlushAsyncLoading(1684): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.17-01.28.08:295][873]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_MainMenu'.
+[2026.09.17-01.28.08:295][873]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_MainMenu
+[2026.09.17-01.28.08:297][873]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.09.17-01.28.08:330][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.09.17-01.28.08:338][873]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.09.17-01.28.08:338][873]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,052ms to complete.
+[2026.09.17-01.28.08:345][873]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: ================================================
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Total job queries 18 447, among them cache hits 5 221 (28.30%), DDC hits 12 961 (70.26%), Duplicates 206 (1.12%)
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Tracking 13 020 distinct input hashes that result in 11 913 distinct outputs (91.50%)
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: RAM used: 158,84 MiB of 819,20 MiB budget. Usage: 19.39%
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Shaders Compiled: 59
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Jobs assigned 59, completed 59 (100%)
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Average time worker was idle: 716.43 s
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Time job spent in pending queue: average 0.15 s, longest 3.20 s
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Job execution time: average 1.97 s, max 9.91 s
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Job life time (pending + execution): average 2.11 s, max 10.00
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Shader code size: total 661,241 KiB, numShaders 61, average 10,84 KiB, min 3,607 KiB, max 33,121 KiB
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 33.03 s
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.20%
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Jobs were issued in 59 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Average processing rate: 1.79 jobs/sec
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Total thread time: 69,871 s
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Total thread preprocess time: 1 011,289 s
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Percentage time preprocessing: 1447.37%
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Effective parallelization: 2.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.264433
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 8.20 sec, max 8.20 sec, min 8.20 sec)
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 1.77 sec, max 1.91 sec, min 1.64 sec)
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   21 times, average 1.60 sec, max 7.34 sec, min 0.20 sec)
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.54 sec, max 1.54 sec, min 1.54 sec)
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    9 times, average 1.28 sec, max 2.40 sec, min 0.73 sec)
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 48.04% of total time (compiled   21 times, average 1.60 sec, max 7.34 sec, min 0.20 sec)
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 16.52% of total time (compiled    9 times, average 1.28 sec, max 2.40 sec, min 0.73 sec)
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 11.73% of total time (compiled    1 times, average 8.20 sec, max 8.20 sec, min 8.20 sec)
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 5.08% of total time (compiled    2 times, average 1.77 sec, max 1.91 sec, min 1.64 sec)
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.77% of total time (compiled    6 times, average 0.56 sec, max 0.67 sec, min 0.39 sec)
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: === Material stats ===
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Materials Translated:    152
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Material Translation Only: 0.06 s (35%)
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.09.17-01.29.09:060][406]LogShaderCompilers: Display: ================================================
+[2026.09.17-01.30.01:936][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.09.17-01.30.01:948][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.17-01.30.02:020][324]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Project/UI/Blueprints/WBP_Menu] ([2] browsable assets)...
+[2026.09.17-01.30.02:024][324]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Project/UI/Blueprints/WBP_Menu.WBP_Menu]
+[2026.09.17-01.30.02:024][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/UI/Blueprints/WBP_Menu]
+[2026.09.17-01.30.02:033][324]LogSavePackage: Moving output files for package: /Game/Project/UI/Blueprints/WBP_Menu
+[2026.09.17-01.30.02:033][324]LogSavePackage: Moving '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Saved/WBP_MenuF0F62F5D4324AB1DCE414CA14C0D8A64.tmp' to '../../../../../../Users/xavie/Documents/GitHub/dubois_xavier_JV3_tuto/dubois_xavier_tuto/Content/Project/UI/Blueprints/WBP_Menu.uasset'
+[2026.09.17-01.30.02:044][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.910 ms (total: 21.7 sec)
+[2026.09.17-01.30.02:124][324]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.17-01.30.02:124][324]LogContentValidation: Enabled validators:
+[2026.09.17-01.30.02:124][324]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.17-01.30.02:124][324]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.17-01.30.02:124][324]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.17-01.30.02:124][324]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.17-01.30.02:124][324]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.17-01.30.02:124][324]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.17-01.30.02:125][324]AssetCheck: /Game/Project/UI/Blueprints/WBP_Menu Validating asset
